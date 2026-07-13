@@ -1,0 +1,1 @@
+print("welcm to tailored ai")

@@ -1,5 +1,17 @@
 uvicorn
 fastapi
 langchain
+langchain-experimental
 langgraph
 kagglehub
+reportlab
+llama-index
+langchain-nomic
+python-dotenv
+llama-index-llms-groq
+llama-index-embeddings-langchain
+llama-index-llms-groq
+llama-index-embeddings-nomic
+llama-index-vector-stores-faiss
+llama-index-readers-file
+faiss-cpu
